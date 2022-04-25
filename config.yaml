@@ -1,6 +1,6 @@
 settings:
-  title: 'Status Page'
-  url: 'https://fio-status.workers.dev' # used for Slack messages
+  title: 'FiO Status Page'
+  url: 'https://status.fio.one' # used for Slack messages
   logo: logo-192x192.png # image in ./public/ folder
   daysInHistogram: 90 # number of days you want to display in histogram
   collectResponseTimes: true # collects avg response times from CRON locations
